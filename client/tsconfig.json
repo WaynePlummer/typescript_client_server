@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+                "module": "system",
+		"outFile": "../dist/public/client.js",
+		"lib": [
+			"es6",
+			"dom"
+		],
+		"sourceMap": true,
+		"rootDir": "."
+	},
+	"files": [
+		"client.ts"
+	]
+}
