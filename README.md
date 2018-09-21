@@ -4,7 +4,7 @@
 
 If, for any reason, you ever want to do some client/server prototyping using TypeScript on both the client and the server (using Chrome and nodeJS), this Visual Studio Code (VSC) project would be a reasonable place to start.
 
-With the Debuuger for Chrome extension loaded in VSC, you can set breakpoints in the TypeScript code of both client and server and have them work AOK.
+With the `Debugger for Chrome` extension loaded in VSC, you can set breakpoints in the TypeScript code of both client and server and have them work AOK.
 
 The whole debug experience is within the VSC environment... note how the console logging all appears appropriately interleaved in the VSC Debug Console whether it comes from client or server.
 
